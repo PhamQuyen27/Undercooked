@@ -11,7 +11,7 @@ However, the game structure and the source-code were created by me and they are 
 
 This project uses many Unity Packages created and published by me. All of them are on the MIT license so you can freely use them into your project
 
-#How to play
+# How to play
 
 You must prepare, cook and serve up some tasty orders before time ends!
 
@@ -19,7 +19,7 @@ After the initial count down, Orders will be received on the screen's top left c
 
 Your score will increase according in how quickly you deliver those orders.
 
-#Controls
+# Controls
 
  - Tab - Switch between Chefs.
  - AWSD or Arrow Keys - Movement.
@@ -28,6 +28,6 @@ Your score will increase according in how quickly you deliver those orders.
 
  ![CHEESE!](Assets/_Assets/Textures/Options.png)
 
- #Levels
+# Levels
 The game currently has 6 levels.
  ![CHEESE!](Assets/_Assets/Textures/Levels.png)
